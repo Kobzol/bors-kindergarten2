@@ -1,2 +1,7 @@
 [assign.owners]
 "b.txt" = ["@kobzol"]
+
+[backport.compiler]
+required-pr-labels = ["T-libs", "T-libs-api"]
+required-issue-label = "regression-from-stable-to-stable"
+add-labels = ["stable-nominated"]
