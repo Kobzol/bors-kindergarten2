@@ -5,3 +5,5 @@ report_merge_conflicts = true
 [labels]
 approved = ["+approved", "+approved2", "-bar"]
 unapproved = ["-foo", "+bar"]
+
+[unroll]
