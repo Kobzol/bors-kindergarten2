@@ -7,3 +7,5 @@ approved = ["+approved", "+approved2", "-bar"]
 unapproved = ["-foo", "+bar"]
 
 [unroll]
+
+[foo
